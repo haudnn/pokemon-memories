@@ -1,0 +1,15 @@
+* {
+    padding:  0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    --dark: #212121;
+    --light: #f3f3f3;
+    --fontFamily: 'Odibee Sans', cursive;
+}
+body { 
+    font-family: var(--fontFamily);
+    font-size: 16px;
+    width: 100%;
+}
